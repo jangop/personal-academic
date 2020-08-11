@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jan Philip Göpfert
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Bielefeld University
+  url: "https://www.uni-bielefeld.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Final-year PhD candidate at Bielefeld University. Researches uncertainty, generative models and adversarial robustness. Likes lifting heavy weights.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Adversarial Robustness
+- Online Learning
+- Uncertainty
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Machine Learning
+    institution: Bielefeld University
+    year: when-it's-done
+  - course: MSc in Intelligent Systems
+    institution: Bielefeld University
+    year: 2015
+  - course: BSc in Mathematics & Computer Science
+    institution: Bielefeld University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +47,22 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/janphigoe
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/janphigoe
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=rbG7pZQAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1982-9399
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Jan-Philip-G%C3%B6pfert/38731291
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/jangop
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +74,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Final-year PhD candidate at Bielefeld University. Researches uncertainty, generative models and adversarial robustness. Likes lifting heavy weights.
