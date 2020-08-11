@@ -8,5 +8,6 @@ abstract: ""
 featured: true
 publication: "*International Conference on Artificial Neural Networks*"
 doi: "10.1007/978-3-030-01418-6_45"
+url_pdf: "https://pub.uni-bielefeld.de/download/2921316/2921317/drift-reject-preprint.pdf"
 ---
 

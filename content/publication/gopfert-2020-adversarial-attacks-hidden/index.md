@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Symposium on Intelligent Data Analysis*"
+url_pdf: "https://arxiv.org/pdf/1902.09286"
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*International Conference on Artificial Neural Networks*"
+url_pdf: "https://arxiv.org/pdf/1910.09239"
 ---
 

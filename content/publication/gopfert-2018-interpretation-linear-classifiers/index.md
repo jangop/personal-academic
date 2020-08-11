@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Neurocomputing*"
+url_pdf: "https://pub.uni-bielefeld.de/download/2915273/2915277/neurocomputing_2017_goepfert_preprint.pdf"
 ---
 

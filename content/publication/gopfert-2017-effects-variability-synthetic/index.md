@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Symposium Series on Computational Intelligence*"
+url_pdf: "https://pub.uni-bielefeld.de/download/2913752/2916193/g%C3%B6pfert_variability_ssci_2017.pdf"
 ---
 
