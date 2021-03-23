@@ -14,6 +14,8 @@ role: PhD Candidate in Machine Learning
 
 # Organizations/Affiliations
 organizations:
+- name: HammerLab
+  url: "https://www.cit-ec.de/en/tcs"
 - name: Bielefeld University
   url: "https://www.uni-bielefeld.de/"
 
