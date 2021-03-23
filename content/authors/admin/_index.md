@@ -79,4 +79,4 @@ email: ""
 # - Visitors
 ---
 
-Final-year PhD candidate at Bielefeld University. Researches uncertainty, generative models and adversarial robustness. Likes lifting heavy weights.
+Husband and father. Final-year PhD candidate at Bielefeld University. Researches explainability, generative models and adversarial robustness. Likes lifting heavy weights in his spare time.
