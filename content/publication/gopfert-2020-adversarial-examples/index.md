@@ -1,12 +1,12 @@
 ---
 title: "How to compare adversarial robustness of classifiers from a global perspective"
-date: 2020-10-01
-publishDate: 2020-08-11T17:20:45.020611Z
+date: 2021-09-15
+publishDate: 2021-09-15T17:20:45.020611Z
 authors: ["Niklas Risse", "Christina Göpfert", "Jan Philip Göpfert"]
-publication_types: ["3"]
+publication_types: ["1"]
 abstract: "We use recently proposed robustness curves to show that point-wise measures for adversarial robustness do not capture important global properties that are essential to reliably compare the robustness of different classifiers."
 featured: true
-publication: ""
+publication: "International Conference on Artificial Neural Networks (ICANN)"
 url_pdf: "https://arxiv.org/pdf/2004.10882"
 ---
 
