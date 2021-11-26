@@ -5,7 +5,7 @@ authors: ["Jan Philip Göpfert", "Ulrike Kuhl", "Lukas Hindemith", "Heiko Wersin
 publication_types: ["3"]
 abstract: "We propose intuitiveness as a property of machine learning algorithms, largely impacting how easy it is for users to interact with a given algorithm without any explicit instruction or training."
 featured: true
-publication: ""
+publication: "IEEE Transactions on Human-Machine Systems"
 url_pdf: "https://arxiv.org/pdf/2012.13551"
 ---
 

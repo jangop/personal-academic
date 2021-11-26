@@ -5,7 +5,7 @@ authors: ["Jan Philip Göpfert", "Heiko Wersing", "Barbara Hammer"]
 publication_types: ["3"]
 abstract: "We extend k nearest neighbors and develop a method that allows learning locally adaptive metrics."
 featured: true
-publication: ""
+publication: "Neurocomputing"
 url_pdf: "https://arxiv.org/pdf/2011.03904v2"
 ---
 
