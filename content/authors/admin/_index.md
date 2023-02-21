@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Machine Learning
+role: Senior Machine Learning Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: HammerLab
-  url: "https://www.cit-ec.de/en/tcs"
-- name: Bielefeld University
-  url: "https://www.uni-bielefeld.de/"
+- name: Recommendy UG
+  url: "https://www.recommendy.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Final-year PhD candidate at Bielefeld University. Researches uncertainty, generative models and adversarial robustness. Likes lifting heavy weights.
@@ -31,7 +29,7 @@ education:
   courses:
   - course: PhD in Machine Learning
     institution: Bielefeld University
-    year: when-it's-done
+    year: 2022
   - course: MSc in Intelligent Systems
     institution: Bielefeld University
     year: 2015
@@ -81,4 +79,4 @@ email: ""
 # - Visitors
 ---
 
-Husband and father. Final-year PhD candidate at Bielefeld University. Researches explainability, generative models and adversarial robustness. Likes lifting heavy weights in his spare time.
+Husband and father. Brings systems to life using artificial intelligence. Obtained his degree at Bielefeld University. Still researches adversarial robustness. His spare time revolves around fitness.
