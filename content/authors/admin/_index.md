@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Machine Learning Engineer
+role: Principal Artificial Intelligence Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Recommendy UG
-  url: "https://www.recommendy.io"
+- name: VisionAI
+  url: "https://www.visionai.co"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Final-year PhD candidate at Bielefeld University. Researches uncertainty, generative models and adversarial robustness. Likes lifting heavy weights.
